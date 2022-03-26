@@ -40,7 +40,7 @@ namespace LabWork2
         {
             foreach(var i in ButterFly)
             {
-                print($"Имя или тип бабочки: {i.Type}- цвет: {i.Color} - срок жизни: {i.Age} - основная пища: {i.Eat}");
+                print($"Имя или тип бабочки: {i.Type} -- цвет: {i.Color} -- срок жизни: {i.Age} -- основная пища: {i.Eat}");
             }
         }
 
